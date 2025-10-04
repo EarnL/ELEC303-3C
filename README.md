@@ -13,5 +13,5 @@
 
 <h1> 📝 Midterm Final Exam</h1><br>
 
-[Midterm Final Exam](https://github.com/EarnL/ELEC303-3C/blob/00941f81b884f1291dfb7c53de87969efa74c714/Caparros/datasets/Midterm_Final_Exam.ipynb)  <br>🔗[nbviewer](https://nbviewer.org/github/EarnL/ELEC303-3C/blob/00941f81b884f1291dfb7c53de87969efa74c714/Caparros/datasets/Midterm_Final_Exam.ipynb) <h2>CHICAGO CRIMES OVERVIEW</h2>
+[Midterm Final Exam](https://github.com/EarnL/ELEC303-3C/blob/60fdc36333efc9d789abc6602f76a11d2e9592c4/Caparros/datasets/Midterm_Final_Exam.ipynb)  <br>🔗[nbviewer](https://nbviewer.org/github/EarnL/ELEC303-3C/blob/60fdc36333efc9d789abc6602f76a11d2e9592c4/Caparros/datasets/Midterm_Final_Exam.ipynb) <h2>CHICAGO CRIMES OVERVIEW</h2>
 
