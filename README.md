@@ -16,6 +16,13 @@
 [Assignment](https://github.com/EarnL/ELEC303-3C/blob/3063f3bb78f467081ecf32ac674a988d4a7f240c/Caparros/datasets/Caparros_Arnel_SalaryPrediction.ipynb) <h2>Predicting 2024 Data Science Salaries Using Linear Regression</h2>
 <br>
 
+[Activity 6](https://github.com/EarnL/ELEC303-3C/blob/920c56e969bbc0e094c427ef103cdc8ddeac0726/Caparros/datasets/Machine_Learning_Exercise1-Caparros_Arnel.ipynb
+) <h2>MACHINE LEARNING EXERCISE 1</h2>
+<br>
+
+[Activity 5](https://github.com/EarnL/ELEC303-3C/blob/920c56e969bbc0e094c427ef103cdc8ddeac0726/Caparros/datasets/TitanicSurvavility_MachineLearning_Caparros.ipynb
+) <h2>TITANIC SURVIVAL MACHINE LEARNING</h2>
+<br>
 
 
 
